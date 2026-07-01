@@ -1,0 +1,9 @@
+{
+  "name": "reactNativeAI",
+  "displayName": "reactNativeAI",
+  "extra": {
+    "eas": {
+      "projectId": "c54baa1d-d15a-4f51-8754-c10f2aa9fc2e"
+    }
+  }
+}
