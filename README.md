@@ -1,3 +1,17 @@
+# Nova AI Voice Assistant
+
+A React Native AI Voice Assistant powered by OpenAI.
+
+---
+
+## Screenshots
+
+### Splash Screen
+
+![Screenshots](screenshots_grid.png)
+
+---
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
